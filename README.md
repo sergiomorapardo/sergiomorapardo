@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=sergiomorapardo&style=flat-square&color=blue" alt="profile views" />
 </p>
 
-I'm a Data Science Technical Lead at Mercado Libre and an Economist with an MSc in Analytics. I am also a professor in the Specialization in Computational Analytics at Pontificia Universidad Javeriana.
+I'm a Data Science Technical Lead at Mercado Libre and an Economist with an MSc in Analytics. I am also a professor @ Pontificia Universidad Javeriana.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sergiomorapardo/" target="_blank">
