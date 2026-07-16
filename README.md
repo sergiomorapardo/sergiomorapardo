@@ -30,7 +30,6 @@ I'm a Data Science Technical Lead at Mercado Libre and an Economist with an MSc 
 ### 🚀 Core Projects (Libraries)
 
 [![Pin de Hyperpy](https://github-readme-stats.vercel.app/api/pin/?username=sergiomorapardo&repo=py-Hyperpy&theme=dark&title_color=42a4f0&icon_color=42a4f0)](https://github.com/sergiomorapardo/py-Hyperpy)
-[![Pin de BannerQuery](https://github-readme-stats.vercel.app/api/pin/?username=sergiomorapardo&repo=BannerQuery&theme=dark&title_color=42a4f0&icon_color=42a4f0)](https://github.com/sergiomorapardo/BannerQuery)
 
 ---
 
