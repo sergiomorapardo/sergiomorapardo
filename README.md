@@ -1,20 +1,14 @@
 ## Hi! I'm Sergio 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=sergiomorapardo&style=flat-square&color=blue)
+
 **AI/ML Technical Lead & Senior Data Scientist** focused on recommendation systems, causal experimentation, production ML, and applied LLM evaluation.
 
 Previously at **Mercado Libre** (2022–July 2026), most recently as a **Data Science Technical Lead**. I work across problem framing, ML system design, controlled experiments, and technical review. I'm also an adjunct professor at **Pontificia Universidad Javeriana**, an Economist, and hold an MSc in Analytics.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sergiomorapardo/" target="_blank">
-     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://sergiomorapardo.github.io/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-1C1E26?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="mailto:sergiomora823@gmail.com">
-     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergiomorapardo/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1C1E26?style=for-the-badge&logo=github&logoColor=white)](https://sergiomorapardo.github.io/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergiomora823@gmail.com)
 
 ---
 
@@ -50,10 +44,6 @@ These case studies describe my role, technical decisions, and publicly disclosed
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=sergiomorapardo&show_icons=true&theme=dark&title_color=42a4f0&icon_color=42a4f0&text_color=c9d1d9&hide_rank=true" alt="Sergio's GitHub Stats" />
-  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sergiomorapardo&layout=compact&theme=dark&title_color=42a4f0&text_color=c9d1d9" alt="Sergio's Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sergiomorapardo&style=flat-square&color=blue" alt="Profile views" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=sergiomorapardo&show_icons=true&theme=dark&title_color=42a4f0&icon_color=42a4f0&text_color=c9d1d9&hide_rank=true" alt="Sergio's GitHub Stats" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sergiomorapardo&layout=compact&theme=dark&title_color=42a4f0&text_color=c9d1d9" alt="Sergio's Most Used Languages" />
 </p>
