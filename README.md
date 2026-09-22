@@ -30,7 +30,7 @@ I'm a Data Science Technical Lead at Mercado Libre and an Economist with an MSc 
 
 ### 🚀 Core Projects (Libraries)
 
-* **[Hyperpy](https://github.com/sergiomorapardo/py-hyperpy)**: A Python framework for automatic hyperparameter optimization.
+[![Pin de Hyperpy](https://github-stats-extended.vercel.app/api/pin/?username=sergiomorapardo&repo=py-Hyperpy&theme=dark&title_color=42a4f0&icon_color=42a4f0)](https://github.com/sergiomorapardo/py-Hyperpy)
 
 ---
 
@@ -38,3 +38,10 @@ I'm a Data Science Technical Lead at Mercado Libre and an Economist with an MSc 
 
 * **[Supply-Chain-Analytics](https://github.com/sergiomorapardo/Supply-Chain-Analytics)**: Analysis and models applied to supply chain problems.
 * **[GMM-Gaussian-Mixture-Models](https://github.com/sergiomorapardo/GMM-Gaussian-Mixture-Models)**: Implementation and in-depth analysis of Gaussian Mixture Models.
+
+---
+
+<p align="center">
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=sergiomorapardo&show_icons=true&theme=dark&title_color=42a4f0&icon_color=42a4f0&text_color=c9d1d9&hide_rank=true" alt="Sergio's GitHub Stats" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sergiomorapardo&layout=compact&theme=dark&title_color=42a4f0&text_color=c9d1d9" alt="Sergio's Most Used Languages" />
+</p>
