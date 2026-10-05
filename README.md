@@ -4,7 +4,7 @@
 
 **AI/ML Technical Lead & Senior Data Scientist** focused on recommendation systems, causal experimentation, production ML, and applied LLM evaluation.
 
-Previously at **Mercado Libre** (2022–July 2026), most recently as a **Data Science Technical Lead**. I work across problem framing, ML system design, controlled experiments, and technical review. I'm also an adjunct professor at **Pontificia Universidad Javeriana**, an Economist, and hold an MSc in Analytics.
+My experience includes **Data Science technical leadership at Mercado Libre**. I work across problem framing, ML system design, controlled experiments, and technical review. I'm also an adjunct professor at **Pontificia Universidad Javeriana**, an Economist, and hold an MSc in Analytics.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergiomorapardo/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1C1E26?style=for-the-badge&logo=github&logoColor=white)](https://sergiomorapardo.github.io/)
