@@ -12,6 +12,24 @@ Previously at **Mercado Libre** (2022–July 2026), most recently as a **Data Sc
 
 ---
 
+### 📚 Featured Courses & Learning Resources
+
+I teach at **Pontificia Universidad Javeriana** and share notebooks, exercises, and practical examples for learning machine learning and building AI applications.
+
+#### [AdvancedGenAI](https://github.com/sergiomorapardo/AdvancedGenAI)
+
+Generative AI course proposal with practical examples of **RAG, AI agents, LangChain, and LangGraph**. The proposed curriculum also covers **MCP, LLM evaluation, and LLMOps**. The repository includes single-file and modular agent implementations, shared retrieval examples, and automated checks.
+
+**Status: In development.** Course approval and delivery dates are pending confirmation.
+
+#### [AdvancedTopicsAnalytics](https://github.com/sergiomorapardo/AdvancedTopicsAnalytics)
+
+Course materials on **deep learning, computer vision, NLP, graph machine learning, and MLOps**. Includes notebooks and exercises with **PyTorch and TensorFlow**, from model deployment and drift monitoring to transformers, graph embeddings, and graph neural networks.
+
+Also teaching: **[StochasticAITechniquesClass](https://github.com/sergiomorapardo/StochasticAITechniquesClass)** — PCA, regression, Bayesian models, and Markov chains.
+
+---
+
 ### 🎯 Selected Industry Work
 
 * **[Causal ML remarketing](https://sergiomorapardo.github.io/work/causal-ml-remarketing/)** — Built and led an ML decision engine across eight countries, reaching ~12M monthly users. ML optimizations generated ~US$1M in monthly incremental GMV versus persistent holdouts.
@@ -29,15 +47,7 @@ These case studies describe my role, technical decisions, and publicly disclosed
 [![HyperPy repository](https://github-stats-extended.vercel.app/api/pin/?username=sergiomorapardo&repo=py-Hyperpy&theme=dark&title_color=42a4f0&icon_color=42a4f0)](https://github.com/sergiomorapardo/py-Hyperpy)
 
 * **[Supply-Chain-Analytics](https://github.com/sergiomorapardo/Supply-Chain-Analytics)** — Notebooks exploring analytics for supply-chain problems.
-* **[GMM-Gaussian-Mixture-Models](https://github.com/sergiomorapardo/GMM-Gaussian-Mixture-Models)** — An introduction to Gaussian Mixture Models through explanations and implementation.
-
----
-
-### 📚 Teaching & Course Materials
-
-* **[AdvancedTopicsAnalytics](https://github.com/sergiomorapardo/AdvancedTopicsAnalytics)**: Course on Deep Learning, Computer Vision, NLP, Graph Deep Learning, and MLOps.
-* **[AdvancedGenAI](https://github.com/sergiomorapardo/AdvancedGenAI)**: Generative AI course proposal for Pontificia Universidad Javeriana, covering RAG, AI agents, MCP, evaluation, and LLMOps. **In development.**
-* **[StochasticAITechniquesClass](https://github.com/sergiomorapardo/StochasticAITechniquesClass)**: Course on PCA, Regression, Bayesian Models, and Markov Chains.
+* **[GMM-Gaussian-Mixture-Models](https://github.com/sergiomorapardo/GMM-Gaussian-Mixture-Models)** — A fork of an introductory Gaussian Mixture Models repository with explanations and implementation.
 
 ---
 
