@@ -46,6 +46,10 @@ These case studies describe my role, technical decisions, and publicly disclosed
 
 [![HyperPy repository](https://github-stats-extended.vercel.app/api/pin/?username=sergiomorapardo&repo=py-Hyperpy&theme=dark&title_color=42a4f0&icon_color=42a4f0)](https://github.com/sergiomorapardo/py-Hyperpy)
 
+* **[claude-statusline](https://github.com/sergiomorapardo/claude-statusline)** — A Powerlevel10k-style statusline for Claude Code that shows usage bars, PR state, session cost, and cache hit ratio. Written in pure Bash.
+
+[![claude-statusline](https://raw.githubusercontent.com/sergiomorapardo/claude-statusline/main/assets/statusline.png)](https://github.com/sergiomorapardo/claude-statusline)
+
 * **[Supply-Chain-Analytics](https://github.com/sergiomorapardo/Supply-Chain-Analytics)** — Notebooks exploring analytics for supply-chain problems.
 * **[GMM-Gaussian-Mixture-Models](https://github.com/sergiomorapardo/GMM-Gaussian-Mixture-Models)** — A fork of an introductory Gaussian Mixture Models repository with explanations and implementation.
 
