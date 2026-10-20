@@ -48,7 +48,7 @@ These case studies describe my role, technical decisions, and publicly disclosed
 
 * **[AgenticDebtCollection](https://github.com/sergiomorapardo/AgenticDebtCollection)** — A LangGraph debt-collection agent that negotiates payment plans for a fictional Colombian fintech. The LLM (Claude Haiku, optional) interprets messages and words replies; identity, offers, and payment commitments stay backend-validated. Runs fully offline with a deterministic mock provider, SQLite memory, and LangGraph Studio.
 
-  **Status: In development.** Text conversations are available; simulated voice and AWS deployment are planned.
+  **Status: In development.** Text conversations and a browser voice simulator are available; AWS deployment and real telephony are planned.
 
 [![AgenticDebtCollection: browser voice simulator with the live LangGraph viewer](https://raw.githubusercontent.com/sergiomorapardo/AgenticDebtCollection/main/docs/images/voice-visualizer.jpg)](https://github.com/sergiomorapardo/AgenticDebtCollection)
 
