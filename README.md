@@ -44,13 +44,13 @@ These case studies describe my role, technical decisions, and publicly disclosed
 
 * **[agentic-tryon](https://github.com/sergiomorapardo/agentic-tryon)** — A camera-based virtual try-on orchestrated by Claude as a cost-bounded workflow. A parallel photo and garment review gates generation before any image is paid for. An evaluator-optimizer loop then grades the result on garment fidelity, identity, and realism, and revises it if needed. Images come from OpenAI `gpt-image-2` or IDM-VTON, with a live LangGraph-style graph view. Measured: ~US$0.06 in Claude calls and ~40 s per approved try-on.
 
-[![agentic-tryon repository](https://github-stats-extended.vercel.app/api/pin/?username=sergiomorapardo&repo=agentic-tryon&theme=dark&title_color=42a4f0&icon_color=42a4f0)](https://github.com/sergiomorapardo/agentic-tryon)
+[![agentic-tryon: before photo, garment, and generated try-on result](https://raw.githubusercontent.com/sergiomorapardo/agentic-tryon/main/docs/images/visualizer-preview.png)](https://github.com/sergiomorapardo/agentic-tryon)
 
 * **[AgenticDebtCollection](https://github.com/sergiomorapardo/AgenticDebtCollection)** — A LangGraph debt-collection agent that negotiates payment plans for a fictional Colombian fintech. The LLM (Claude Haiku, optional) interprets messages and words replies; identity, offers, and payment commitments stay backend-validated. Runs fully offline with a deterministic mock provider, SQLite memory, and LangGraph Studio.
 
   **Status: In development.** Text conversations are available; simulated voice and AWS deployment are planned.
 
-[![AgenticDebtCollection repository](https://github-stats-extended.vercel.app/api/pin/?username=sergiomorapardo&repo=AgenticDebtCollection&theme=dark&title_color=42a4f0&icon_color=42a4f0)](https://github.com/sergiomorapardo/AgenticDebtCollection)
+[![AgenticDebtCollection: browser voice simulator with the live LangGraph viewer](https://raw.githubusercontent.com/sergiomorapardo/AgenticDebtCollection/main/docs/images/voice-visualizer.jpg)](https://github.com/sergiomorapardo/AgenticDebtCollection)
 
 * **[HyperPy](https://github.com/sergiomorapardo/py-hyperpy)** — A Python library I developed on top of Optuna to simplify hyperparameter optimization for binary classification with a small API.
 
